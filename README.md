@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarnendu Ghosh</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">📊 Roaming the data wilderness, one analysis at a time 🌐 | Sculpting tales from numbers that dance 📈💃 | Eagerly hunting trends and outliers 🔍 | Ready to decode the data symphony! 🎵🔥 #DiveIntoData</h3>
 
 - 🌱 I’m currently learning **Data Analysis, and Machine Learning**
 
